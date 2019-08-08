@@ -1,4 +1,3 @@
-# Sagnik-Rout
 #Things to do.
 
 - [x] Q1.sh
